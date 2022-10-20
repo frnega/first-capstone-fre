@@ -4,10 +4,28 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.25.3",
-    "hint": "^6.1.8",
+    "hint": "^7.1.3",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  }
+  },
+  "name": "capston-project-fre",
+  "description": ">  Capstone Projects are done at the end of a module at Microverse. This project contains the HTML, CSS and JavaScript Capstone Project.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frnega/first-capstone-fre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frnega/first-capstone-fre/issues"
+  },
+  "homepage": "https://github.com/frnega/first-capstone-fre#readme"
 }

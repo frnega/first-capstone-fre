@@ -15,5 +15,4 @@ function closeMobileMenu() {
 }
 
 openMenu.addEventListener('click', openMobileMenu);
- closeMenu.addEventListener('click', closeMobileMenu);
-
+closeMenu.addEventListener('click', closeMobileMenu);

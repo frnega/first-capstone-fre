@@ -20,9 +20,9 @@
 # WORK FLOW SCREEN 
 
 ## Video Presentation
-[Click Here to view presentation video]()
+[Click Here to view presentation video](https://www.loom.com/share/f27ccf98f1524664a31de54b64460dc3)
 ## Live Demo
-[Click Here to view live version]()
+[Click Here to view live version]( https://frnega.github.io/frnega.firstcapstone.github.io/)
 
 ## Getting Started
 *to my project locally.**
